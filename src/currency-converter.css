@@ -1,0 +1,17 @@
+.form-style {
+    margin-top: 5rem;
+    height: 30vh;
+    align-content: center;
+    display: grid;
+    background-color: #310e21;
+}
+
+.hidden {
+    display: none;
+}
+
+#root {
+    height: 100vh;
+    background-color: rgb(58, 58, 58);
+    color: white;
+}
